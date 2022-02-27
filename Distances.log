@@ -1,0 +1,2220 @@
+2021-12-01 14:39:03,747:Delivery:___________________Distances LOGGER PROCESS STARTING!____________________________
+2021-12-01 14:39:03,752:Delivery:Distance LENGTH data csv opened
+2021-12-01 14:39:03,756:Delivery:Distance NAME data csv opened
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,757:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check ADDRESS time func called
+2021-12-01 14:39:03,758:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,759:Delivery:return optimized FIRST truck INDEX func called : ['0']
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,759:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,759:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,760:Delivery:return optimized FIRST truck INDEX func called : ['0', '20']
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,760:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,761:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21']
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,761:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,761:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,762:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21']
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,762:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,763:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21']
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,763:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,764:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17']
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,764:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2']
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,764:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,765:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5']
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,765:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,766:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18']
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,766:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,766:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15']
+2021-12-01 14:39:03,766:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,767:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6']
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:FIRST shortest dist func found new lowest value
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2021-12-01 14:39:03,767:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19']
+2021-12-01 14:39:03,767:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,767:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,768:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,768:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,769:Delivery:return optimized SECOND truck INDEX func called:['0']
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,769:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,770:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,771:Delivery:return optimized SECOND truck INDEX func called:['0', '22']
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,771:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,772:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24']
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,772:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,773:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,774:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26']
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,774:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,775:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11']
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,775:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,776:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14']
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,776:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,777:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15']
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,777:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,778:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13']
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,778:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,779:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7']
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,779:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,780:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3']
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,780:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10']
+2021-12-01 14:39:03,780:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,780:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,781:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25']
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,781:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,781:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19']
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:SECOND shortest dist func found new lowest value
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2021-12-01 14:39:03,782:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19']
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,782:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,782:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,783:Delivery:return optimized THIRD truck INDEX func called: ['0']
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,783:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,784:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,784:Delivery:return optimized THIRD truck INDEX func called: ['0', '17']
+2021-12-01 14:39:03,784:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,785:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,786:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4']
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,786:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,786:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16']
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,787:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2']
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,787:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,788:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9']
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,788:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,789:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9']
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,789:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18']
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,789:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,790:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19']
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,790:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,791:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12']
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,791:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6']
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,791:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,792:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1']
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,792:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1']
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:Third shortest dist func found new lowest value
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,792:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2021-12-01 14:39:03,792:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,793:Delivery:check FIRST truck time func called: 8:06:00 
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,793:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,793:Delivery:check FIRST truck time func called: 8:13:00 
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,794:Delivery:check FIRST truck time func called: 8:13:00 
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,794:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,794:Delivery:check FIRST truck time func called: 8:13:00 
+2021-12-01 14:39:03,794:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,795:Delivery:check FIRST truck time func called: 8:30:00 
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,795:Delivery:check FIRST truck time func called: 8:44:00 
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,795:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,796:Delivery:check FIRST truck time func called: 8:53:00 
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,796:Delivery:check FIRST truck time func called: 8:57:00 
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,796:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,797:Delivery:check FIRST truck time func called: 9:03:00 
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,797:Delivery:check FIRST truck time func called: 9:22:00 
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,797:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,797:Delivery:check FIRST truck time func called: 9:33:00 
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,798:Delivery:check FIRST truck time func called: 9:36:00 
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2021-12-01 14:39:03,798:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,798:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,799:Delivery:check SECOND truck time func called:9:13:00
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,799:Delivery:check SECOND truck time func called:9:19:00
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,799:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,800:Delivery:check SECOND truck time func called:9:23:00
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,800:Delivery:check SECOND truck time func called:9:44:00
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,800:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,801:Delivery:check SECOND truck time func called:9:53:00
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,801:Delivery:check SECOND truck time func called:9:55:00
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,801:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,802:Delivery:check SECOND truck time func called:10:00:00
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,802:Delivery:check SECOND truck time func called:10:05:00
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,802:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,802:Delivery:check SECOND truck time func called:10:18:00
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,803:Delivery:check SECOND truck time func called:10:21:00
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,803:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,803:Delivery:check SECOND truck time func called:10:58:00
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,804:Delivery:check SECOND truck time func called:11:04:00
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,804:Delivery:check SECOND truck time func called:11:04:00
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,805:Delivery:check SECOND truck time func called:11:07:00
+2021-12-01 14:39:03,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2021-12-01 14:39:03,805:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,805:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,805:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,805:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,805:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,805:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,805:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,805:Delivery:check THIRD truck time func called:11:07:00
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,806:Delivery:check THIRD truck time func called:11:09:00
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,806:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,806:Delivery:check THIRD truck time func called:11:14:00
+2021-12-01 14:39:03,806:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,807:Delivery:check THIRD truck time func called:11:33:00
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,807:Delivery:check THIRD truck time func called:11:38:00
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,807:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,807:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,808:Delivery:check THIRD truck time func called:11:38:00
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,808:Delivery:check THIRD truck time func called:11:44:00
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,808:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,808:Delivery:check THIRD truck time func called:11:59:00
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,809:Delivery:check THIRD truck time func called:12:02:00
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,809:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,809:Delivery:check THIRD truck time func called:12:16:00
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,810:Delivery:check THIRD truck time func called:12:21:00
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,811:Delivery:check THIRD truck time func called:12:21:00
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,811:Delivery:check THIRD truck time func called:12:44:00
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:check TOTAL distance func called
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,811:Delivery:check CURRENT distance func called
+2021-12-01 14:39:03,812:Delivery:check THIRD truck time func called:13:02:00
+2021-12-01 14:39:03,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2021-12-01 14:39:03,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,656:Delivery:___________________Distances LOGGER PROCESS STARTING!____________________________
+2022-02-26 21:18:14,721:Delivery:Distance LENGTH data csv opened
+2022-02-26 21:18:14,762:Delivery:Distance NAME data csv opened
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,763:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check ADDRESS time func called
+2022-02-26 21:18:14,764:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,764:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,764:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,765:Delivery:return optimized FIRST truck INDEX func called : ['0']
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,765:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,766:Delivery:return optimized FIRST truck INDEX func called : ['0', '20']
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,766:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,767:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21']
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,767:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,768:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21']
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,768:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,769:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21']
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,769:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,770:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17']
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,770:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2']
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,770:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,771:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5']
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,771:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,772:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18']
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,772:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15']
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,772:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,772:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6']
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:FIRST shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:shortest dist func added new optimized lowest value for truck 1 ONE
+2022-02-26 21:18:14,773:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19']
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,773:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,773:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,774:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,775:Delivery:return optimized SECOND truck INDEX func called:['0']
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,775:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,776:Delivery:return optimized SECOND truck INDEX func called:['0', '22']
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,776:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,776:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,777:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24']
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,777:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,778:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,779:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26']
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,779:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,780:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11']
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,780:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,781:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14']
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,781:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,782:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15']
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,782:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,783:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13']
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,783:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,784:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7']
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,784:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,784:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3']
+2022-02-26 21:18:14,784:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,785:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10']
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,785:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,786:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25']
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,786:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19']
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:SECOND shortest dist func found new lowest value
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,786:Delivery:shortest dist func added new optimized lowest value for truck 2 TWO
+2022-02-26 21:18:14,786:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19']
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,787:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,788:Delivery:return optimized THIRD truck INDEX func called: ['0']
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,788:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,789:Delivery:return optimized THIRD truck INDEX func called: ['0', '17']
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,789:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,790:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4']
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,790:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,791:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16']
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,791:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,791:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2']
+2022-02-26 21:18:14,791:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,792:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9']
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,792:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,792:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,793:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9']
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,793:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,794:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18']
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,794:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19']
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,794:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,795:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12']
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,795:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,796:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6']
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,796:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1']
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,796:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,796:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1']
+2022-02-26 21:18:14,797:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,797:Delivery:Third shortest dist func found new lowest value
+2022-02-26 21:18:14,797:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,797:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,797:Delivery:shortest dist func added new optimized lowest value for truck 3 THREE
+2022-02-26 21:18:14,797:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23']
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,797:Delivery:check FIRST truck time func called: 8:06:00 
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,797:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,798:Delivery:check FIRST truck time func called: 8:13:00 
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,798:Delivery:check FIRST truck time func called: 8:13:00 
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,798:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,798:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,799:Delivery:check FIRST truck time func called: 8:13:00 
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,799:Delivery:check FIRST truck time func called: 8:30:00 
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,799:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,800:Delivery:check FIRST truck time func called: 8:44:00 
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,800:Delivery:check FIRST truck time func called: 8:53:00 
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,800:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,800:Delivery:check FIRST truck time func called: 8:57:00 
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,801:Delivery:check FIRST truck time func called: 9:03:00 
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,801:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,801:Delivery:check FIRST truck time func called: 9:22:00 
+2022-02-26 21:18:14,801:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,802:Delivery:check FIRST truck time func called: 9:33:00 
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,802:Delivery:check FIRST truck time func called: 9:36:00 
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,802:Delivery:return optimized FIRST truck INDEX func called : ['0', '20', '21', '21', '21', '17', '2', '5', '18', '15', '6', '19', '12']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,803:Delivery:check SECOND truck time func called:9:13:00
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,803:Delivery:check SECOND truck time func called:9:19:00
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,803:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,804:Delivery:check SECOND truck time func called:9:23:00
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,804:Delivery:check SECOND truck time func called:9:44:00
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,804:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,805:Delivery:check SECOND truck time func called:9:53:00
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,805:Delivery:check SECOND truck time func called:9:55:00
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,805:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,806:Delivery:check SECOND truck time func called:10:00:00
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,806:Delivery:check SECOND truck time func called:10:05:00
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,806:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,806:Delivery:check SECOND truck time func called:10:18:00
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,807:Delivery:check SECOND truck time func called:10:21:00
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,807:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,807:Delivery:check SECOND truck time func called:10:58:00
+2022-02-26 21:18:14,807:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,808:Delivery:check SECOND truck time func called:11:04:00
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,808:Delivery:check SECOND truck time func called:11:04:00
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,808:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,809:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,809:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,809:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,809:Delivery:check SECOND truck time func called:11:07:00
+2022-02-26 21:18:14,809:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,809:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,809:Delivery:return optimized SECOND truck INDEX func called:['0', '22', '24', '26', '11', '14', '15', '13', '7', '3', '10', '25', '19', '19', '8']
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,809:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,809:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,809:Delivery:check THIRD truck time func called:11:07:00
+2022-02-26 21:18:14,809:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,810:Delivery:check THIRD truck time func called:11:09:00
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,810:Delivery:check THIRD truck time func called:11:14:00
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,810:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,811:Delivery:check THIRD truck time func called:11:33:00
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,811:Delivery:check THIRD truck time func called:11:38:00
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,811:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,812:Delivery:check THIRD truck time func called:11:38:00
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,812:Delivery:check THIRD truck time func called:11:44:00
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,812:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,812:Delivery:check THIRD truck time func called:11:59:00
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,813:Delivery:check THIRD truck time func called:12:02:00
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,813:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,813:Delivery:check THIRD truck time func called:12:16:00
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,814:Delivery:check THIRD truck time func called:12:21:00
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,814:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,814:Delivery:check THIRD truck time func called:12:21:00
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,815:Delivery:check THIRD truck time func called:12:44:00
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:check TOTAL distance func called
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:check CURRENT distance func called
+2022-02-26 21:18:14,815:Delivery:check THIRD truck time func called:13:02:00
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
+2022-02-26 21:18:14,815:Delivery:return optimized THIRD truck INDEX func called: ['0', '17', '4', '16', '2', '9', '9', '18', '19', '12', '6', '1', '1', '23', '24']
